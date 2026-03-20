@@ -140,20 +140,6 @@ print_report(result)
 
 ---
 
-## 🔗 Part of Larger Portfolio
-
-This scanner is **imported by 5 other projects** in the portfolio:
-
-| Project | How It Uses This |
-|---------|-----------------|
-| P3 — REST API | Calls `scan_text()` on every incoming request |
-| P4 — Monitor | Scores each conversation message |
-| P7 — Doc Scanner | Scans text extracted from PDFs/DOCX |
-| P8 — Gateway | Layer 1 of the zero-trust pipeline |
-| P10 — Framework | Integrated into the 4-layer security stack |
-
----
-
 ## 🛠️ Skills Demonstrated
 
 - Python 3.8+ — regex, data structures, modular functions
