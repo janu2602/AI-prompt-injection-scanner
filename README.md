@@ -5,9 +5,6 @@
 ![Patterns](https://img.shields.io/badge/Patterns-40%2B-534AB7?style=flat)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat)
 
-> **Project 1 of 10** — AI Application Security Portfolio  
-> Scans user input for prompt injection attacks **before** it reaches any AI API.
-
 ---
 
 ## 🔍 The Problem
@@ -166,4 +163,3 @@ This scanner is **imported by 5 other projects** in the portfolio:
 - Security-first thinking: defense in depth
 
 ---
-
