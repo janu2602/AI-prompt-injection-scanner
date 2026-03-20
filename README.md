@@ -72,4 +72,3 @@ The scanner is imported by Projects 3 (REST API), 4 (Monitor), 7 (Doc Scanner), 
 - Risk scoring algorithm
 - Security-first thinking (defense in depth)
 - Clean, documented, reusable code
-
